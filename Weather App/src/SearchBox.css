@@ -1,0 +1,12 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.SearchBox #city{
+    width: 300px ;
+}
+
+.error{
+    color: red;
+}
